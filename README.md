@@ -4,7 +4,7 @@ I'm Chris Payne, a software architect, sailor and marine science advocate.
 
 I've been working in AI, software development and data analysis primarily as a consultant for decades.  
 
-I'm a graduate student in UNE's Climate Change Leadership program.  
+I'm a graduate student in UNE's Climate Change Leadership program.  See my brainstorming materials in [CCL](https://github.com/paynepoint/ccl)
 
 ```
 A Poem on Hope
