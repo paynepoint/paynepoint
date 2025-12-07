@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi 
+
+I'm a software architect, sailor and marine science advocate.
+I've been working in AI, software development and data analysis primarily as a consultant for decades.
+I'm a graduate student in UNE's Climate Change Leadership program.
 
 <!--
 **paynepoint/paynepoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
