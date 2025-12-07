@@ -1,7 +1,9 @@
 ## Hello
 
 I'm Chris Payne, a software architect, sailor and marine science advocate.  
+
 I've been working in AI, software development and data analysis primarily as a consultant for decades.  
+
 I'm a graduate student in UNE's Climate Change Leadership program.  
 
 # Where the Land Meets the Tide
@@ -40,21 +42,11 @@ The nets are mended. The boats go out.
 The whales still sing their ancient song.  
 And we—we choose if they'll have waters  
 worthy of them, all along.
-```
-
-The double spaces at the end of each line force the line breaks in markdown.
 
 <!--
 **paynepoint/paynepoint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+To do:
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun facts: Living on a boat, sailed over 1400 miles offshore, rode a horse swimming in the ocean, rappelled down a five-story building, scuba in caves, built the first game of thrones website, built facebook's 10th anniversary look-back videos, worked on early self-routing and self-driving vehicles, built data-visualization solutions for wall street and mapping solutions for hospitality
 -->
